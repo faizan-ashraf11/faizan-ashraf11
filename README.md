@@ -20,7 +20,7 @@
 
 <!-- About Me Card -->
 <div align="center">
-  <table align="center" border="0" cellpadding="0" cellspacing="0" width="90%">
+  <table align="center" border="0" cellpadding="10" cellspacing="0" width="90%">
     <tr>
       <td width="60%" valign="top">
         <h3>⚡ <b>About Me</b></h3>
@@ -31,16 +31,17 @@
           <li>👯 Open to collaborate on <b>open-source AI projects</b> & <b>startup ideas</b></li>
           <li>💬 Ask me about <b>MERN/MEAN, AI integration, or full-stack architecture</b></li>
         </ul>
-        
-        <!-- Primary Call to Action - LinkedIn -->
-        <p align="center">
-          <a href="https://www.linkedin.com/in/faizan-ashraf-87603426a/">
-            <img src="https://img.shields.io/badge/📱_Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-          </a>
-        </p>
       </td>
       <td width="40%" align="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B6dnh0dG9idnVnZHlxbTRoM3ljdG53cXZxZmU2b3Z6dGVlYmx2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" style="border-radius: 15px;" alt="Coding GIF">
+      </td>
+    </tr>
+    <!-- Primary Call to Action - LinkedIn (Fixed Row) -->
+    <tr>
+      <td colspan="2" align="center" style="padding-top: 20px;">
+        <a href="https://www.linkedin.com/in/faizan-ashraf-87603426a/">
+          <img src="https://img.shields.io/badge/📱_Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" />
+        </a>
       </td>
     </tr>
   </table>
@@ -286,12 +287,13 @@
 
 <div align="center">
   <!-- Prominent LinkedIn Call to Action -->
-  <table width="80%" align="center" style="border: 2px solid #0A66C2; border-radius: 15px;">
+  <table width="80%" align="center" style="border: 2px solid #0A66C2; border-radius: 15px; background-color: #f5f9ff;">
     <tr>
       <td align="center" style="padding: 25px;">
-        <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="50" />
+        <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="50" alt="LinkedIn Logo" />
         <h3>Let's Build Something Amazing Together</h3>
-        <p>I'm always open to discussing new opportunities, collaborating on innovative projects, or connecting with fellow developers and recruiters.</p>
+        <p style="font-size: 16px; line-height: 1.5;">I'm always open to discussing new opportunities, collaborating on innovative projects, or connecting with fellow developers and recruiters.</p>
+        <br/>
         <a href="https://www.linkedin.com/in/faizan-ashraf-87603426a/">
           <img src="https://img.shields.io/badge/📬_Connect_with_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" />
         </a>
@@ -308,7 +310,7 @@
 
 <br/>
 
-<!-- Quick Contact Badges -->
+<!-- Quick Follow Badge -->
 <p align="center">
   <a href="https://www.linkedin.com/in/faizan-ashraf-87603426a/">
     <img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=social&logo=linkedin" />
