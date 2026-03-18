@@ -1,5 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Faizan%20-%20AI%20%26%20SaaS%20Engineer&fontSize=40&fontColor=fff&animation=twinkling&desc=Crafting%20Intelligent%20%7C%20Empathetic%20%7C%20Scalable%20Solutions&descSize=18&descAlignY=60" width="100%"/>
+  <!-- Cool Animated Header with Geometric Pattern -->
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="250" alt="Animated Header" />
+  
+  <!-- Your Name Overlay (Text only, no image issues) -->
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=1&pause=1000&color=00F7A7&center=true&vCenter=true&width=800&lines=FAIZAN+ASHRAF" alt="Name" />
+  </h1>
+  
+  <h3 align="center">AI Automation & SaaS Engineer</h3>
 </div>
 
 <!-- Animated Introduction Badge -->
@@ -319,12 +327,22 @@
 
 <br>
 
-<!-- Dynamic Footer -->
+<!-- Dynamic Footer with Waves -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20stopping%20by!%20Let's%20connect%20on%20LinkedIn%20👔&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<!-- Simple Footer Text -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />
+  <h4>Thanks for visiting! Let's connect on LinkedIn 👔</h4>
 </div>
 
 <!-- Simple Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faizan-ashraf11&label=Profile%20Views&color=0A66C2&style=flat" alt="profile views" />
+  <img src="https://komarev.com/hpv/?username=faizan-ashraf11&label=Profile%20Views&color=0A66C2&style=flat" alt="profile views" />
 </p>
