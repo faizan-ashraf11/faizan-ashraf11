@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Faizan%20-%20AI%20%26%20SaaS%20Engineer&fontSize=40&fontColor=fff&animation=twinkling&desc=Crafting%20Intelligent%20%7C%20Empathetic%20%7C%20Scalable%20Solutions&descSize=18&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Faizan%20-%20AI%20%26%20SaaS%20Engineer&fontSize=40&fontColor=fff&animation=twinkling&desc=Crafting%20Intelligent%20%7C%20Empathetic%20%7C%20Scalable%20Solutions&descSize=18&descAlignY=60" width="100%"/>
 </div>
 
 <!-- Animated Introduction Badge -->
@@ -321,7 +321,7 @@
 
 <!-- Dynamic Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20stopping%20by!%20Let's%20connect%20on%20LinkedIn%20👔&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20stopping%20by!%20Let's%20connect%20on%20LinkedIn%20👔&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
 </div>
 
 <!-- Simple Visitor Counter -->
