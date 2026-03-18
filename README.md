@@ -7,12 +7,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7A7&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;AI+Automation+Specialist+%E2%9A%99%EF%B8%8F;SaaS+Architect+%F0%9F%93%88;Full-Stack+Innovator+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<!-- Quick Connect Badges -->
+<!-- Quick Connect Badges - LinkedIn Focused -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square&labelColor=000&color=0A66C2" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&style=flat-square&labelColor=000&color=111" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square&labelColor=000&color=EA4335" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social" /></a>
+  <a href="https://www.linkedin.com/in/faizan-ashraf-87603426a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square&labelColor=000&color=0A66C2" /></a>
+  <a href="https://dribbble.com/dFaizan"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white&style=flat-square&labelColor=000&color=EA4C89" /></a>
+  <a href="mailto:faizanashraf1525@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square&labelColor=000&color=EA4335" /></a>
+  <a href="https://github.com/faizan-ashraf11"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat-square&labelColor=000&color=333" /></a>
 </p>
 
 <!-- Animated Spacer -->
@@ -31,6 +31,13 @@
           <li>👯 Open to collaborate on <b>open-source AI projects</b> & <b>startup ideas</b></li>
           <li>💬 Ask me about <b>MERN/MEAN, AI integration, or full-stack architecture</b></li>
         </ul>
+        
+        <!-- Primary Call to Action - LinkedIn -->
+        <p align="center">
+          <a href="https://www.linkedin.com/in/faizan-ashraf-87603426a/">
+            <img src="https://img.shields.io/badge/📱_Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+          </a>
+        </p>
       </td>
       <td width="40%" align="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B6dnh0dG9idnVnZHlxbTRoM3ljdG53cXZxZmU2b3Z6dGVlYmx2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" style="border-radius: 15px;" alt="Coding GIF">
@@ -48,7 +55,6 @@
 </h2>
 
 <div align="center">
-  <!-- Frontend Card -->
   <table width="90%" align="center">
     <tr>
       <td width="33%" align="center" valign="top">
@@ -273,73 +279,50 @@
 
 <br>
 
-<!-- GitHub Stats with Cards -->
+<!-- Connect Section - LinkedIn Focused -->
 <h2 align="center">
-  📊 GitHub Analytics
+  🤝 Let's Connect on LinkedIn
 </h2>
 
 <div align="center">
-  <table width="90%">
+  <!-- Prominent LinkedIn Call to Action -->
+  <table width="80%" align="center" style="border: 2px solid #0A66C2; border-radius: 15px;">
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="80%" />
+      <td align="center" style="padding: 25px;">
+        <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="50" />
+        <h3>Let's Build Something Amazing Together</h3>
+        <p>I'm always open to discussing new opportunities, collaborating on innovative projects, or connecting with fellow developers and recruiters.</p>
+        <a href="https://www.linkedin.com/in/faizan-ashraf-87603426a/">
+          <img src="https://img.shields.io/badge/📬_Connect_with_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" />
+        </a>
+        <br/><br/>
+        <p>
+          <a href="https://dribbble.com/dFaizan"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" /></a>
+          <a href="mailto:faizanashraf1525@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+          <a href="https://github.com/faizan-ashraf11"><img src="https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github&logoColor=white" /></a>
+        </p>
       </td>
     </tr>
   </table>
 </div>
 
-<br>
+<br/>
 
-<!-- Animated Contribution Graph -->
+<!-- Quick Contact Badges -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="90%" />
+  <a href="https://www.linkedin.com/in/faizan-ashraf-87603426a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=social&logo=linkedin" />
+  </a>
 </p>
-
-<br>
-
-<!-- Connect Section with Animated Footer -->
-<h2 align="center">
-  🤝 Let's Connect & Collaborate
-</h2>
-
-<div align="center">
-  <table width="70%" align="center">
-    <tr>
-      <td align="center">
-        <a href="https://linkedin.com/in/your-profile">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/your-handle">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:your.email@example.com">
-          <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br>
 
 <!-- Dynamic Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20stopping%20by!%20Let's%20build%20something%20amazing%20together.&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20stopping%20by!%20Let's%20connect%20on%20LinkedIn%20👔&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
 </div>
 
-<!-- Visitor Counter -->
+<!-- Simple Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=faizan-ashraf11&label=Profile%20Views&color=0A66C2&style=flat" alt="profile views" />
 </p>
